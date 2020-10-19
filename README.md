@@ -1,3 +1,7 @@
+Таблица пользователей с поиском по никнейму и почте на React.
+
+https://table-with-users.web.app/
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts

@@ -1,0 +1,11 @@
+export const SHOW_LOADER = "SHOW_LOADER";
+export const FETCH_USERS = "FETCH_USERS";
+export const FILTER_USERNAME = "FILTER_USERNAME";
+export const FILTER_EMAIL = "FILTER_EMAIL";
+export const SORT_DATE = "SORT_DATE";
+export const SORT_RATING = "SORT_RATING";
+export const CLEAR_FILTER = "CLEAR_FILTER";
+export const REMOVE_USER = "REMOVE_USER";
+export const SELECT_USER = "SELECT_USER";
+export const SELECT_PAGE = "SELECT_PAGE";
+export const CALCULATE_PAGINATION = "CALCULATE_PAGINATION";
